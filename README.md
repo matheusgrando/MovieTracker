@@ -1,6 +1,6 @@
 # MovieTracker
 
-API Rest do projeto MovieTracker - Tenha controle dos filmes que você assistiu!
+**API Rest do projeto MovieTracker - Tenha controle dos filmes que você assistiu!**
 
 ## Requisitos
 
@@ -36,10 +36,10 @@ Retorna um array com todos os filmes cadastrados pelo usuário atual.
     {
         "id": 1,
         "nome": "Brilho Eterno de uma Mente Sem Lembranças",
-        "gênero": "Drama",
-        "ano de lançamento": 2004,
-        "duração": 108,
-        "classificação indicativa": 14,
+        "genero": "Drama",
+        "anoDeLancamento": 2004,
+        "duracao": 108,
+        "classificacaoIndicativa": 14,
         "diretor": "Michel Gondry",
         "roteirista": "Charlie Kaufman",
         "produtor": ["Steve Golin", "Anthony Bregman"],
@@ -81,10 +81,10 @@ Cadastra um filme com os dados enviados no corpo da requisição.
 {
     "id": 1,
     "nome": "Brilho Eterno de uma Mente Sem Lembranças",
-    "gênero": "Drama",
-    "ano de lançamento": 2004,
-    "duração": 108,
-    "classificação indicativa": 14,
+    "genero": "Drama",
+    "anoDeLancamento": 2004,
+    "duracao": 108,
+    "classificacaoIndicativa": 14,
     "diretor": "Michel Gondry",
     "roteirista": "Charlie Kaufman",
     "produtor": ["Steve Golin", "Anthony Bregman"],
@@ -98,10 +98,10 @@ Cadastra um filme com os dados enviados no corpo da requisição.
 {
     "id": 1,
     "nome": "Brilho Eterno de uma Mente Sem Lembranças",
-    "gênero": "Drama",
-    "ano de lançamento": 2004,
-    "duração": 108,
-    "classificação indicativa": 14,
+    "genero": "Drama",
+    "anoDeLancamento": 2004,
+    "duracao": 108,
+    "classificacaoIndicativa": 14,
     "diretor": "Michel Gondry",
     "roteirista": "Charlie Kaufman",
     "produtor": ["Steve Golin", "Anthony Bregman"],
@@ -150,10 +150,10 @@ Retorna os dados do filme com o `id` informado no parâmetro de path.
 {
     "id": 1,
     "nome": "Brilho Eterno de uma Mente Sem Lembranças",
-    "gênero": "Drama",
-    "ano de lançamento": 2004,
-    "duração": 108,
-    "classificação indicativa": 14,
+    "genero": "Drama",
+    "anoDeLancamento": 2004,
+    "duracao": 108,
+    "classificacaoIndicativa": 14,
     "diretor": "Michel Gondry",
     "roteirista": "Charlie Kaufman",
     "produtor": ["Steve Golin", "Anthony Bregman"],
@@ -196,10 +196,10 @@ Atualiza os dados do filme com o `id` informado no path.
 {
     "id": 1,
     "nome": "Brilho Eterno de uma Mente Sem Lembranças",
-    "gênero": "Drama",
-    "ano de lançamento": 2004,
-    "duração": 108,
-    "classificação indicativa": 14,
+    "genero": "Drama",
+    "anoDeLancamento": 2004,
+    "duracao": 108,
+    "classificacaoIndicativa": 14,
     "diretor": "Michel Gondry",
     "roteirista": "Charlie Kaufman",
     "produtor": ["Steve Golin", "Anthony Bregman"],
@@ -213,10 +213,10 @@ Atualiza os dados do filme com o `id` informado no path.
 {
     "id": 1,
     "nome": "Brilho Eterno de uma Mente Sem Lembranças",
-    "gênero": "Drama",
-    "ano de lançamento": 2004,
-    "duração": 108,
-    "classificação indicativa": 14,
+    "genero": "Drama",
+    "anoDeLancamento": 2004,
+    "duracao": 108,
+    "classificacaoIndicativa": 14,
     "diretor": "Michel Gondry",
     "roteirista": "Charlie Kaufman",
     "produtor": ["Steve Golin", "Anthony Bregman"],
